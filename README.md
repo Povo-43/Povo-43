@@ -26,6 +26,7 @@
 
 ## ご連絡
 
+- E-mail: [contact@kotoca.net](mailto:contact@kotoca.net)又は[story-seller@outlook.com](mailto:story-seller@outlook.com)又は[kakerugotouma@gmail.com](mailto:kakerugotouma@gmail.com)
 - X: [@imme_kakeru](https://x.com/@imme_kakeru)  
 - Discord: kakeru_gotouma (User ID: 1185085957838471208)
 

@@ -1,7 +1,8 @@
 [English version](https://github.com/Povo-43/Povo-43/blob/main/ENGLISH.md)
 <div align="center">
 
-# I’m Povo43
+# こんにちは。
+# Povo43です。
 
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/Povo-43?theme=github)
 

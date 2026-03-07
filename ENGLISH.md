@@ -1,3 +1,4 @@
+[日本語版](https://github.com/Povo-43/Povo-43/blob/main/README.md)
 <div align="center">
 
 # I’m Povo43

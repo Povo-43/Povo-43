@@ -10,7 +10,7 @@
 
 ![Moe Counter](https://count.getloli.com/get/@Povo-43?theme=rule34&darkmode=0)
 
-今春から高校生のソフトウェア開発者です。趣味で創作と技術活動を行っています。
+高校生のソフトウェア開発者です。趣味で創作と技術活動を行っています。
 
 </div>
 

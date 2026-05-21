@@ -38,11 +38,7 @@ I do creative and technical activities as a hobby.
 
 **TeamKOTOCA**  
 Official Website: https://kotoca.net  
-GitHub: https://github.com/TeamKOTOCA  
-
-**Evex Developers**  
-Official Website: https://evex.land  
-GitHub: https://github.com/evex-dev  
+GitHub: https://github.com/TeamKOTO
 
 **Sakura Chat Kingdom – Engineering Team**  
 Official Website: https://sakura.kotoca.net  

@@ -40,10 +40,6 @@
 公式サイト: https://kotoca.net  
 GitHub: https://github.com/TeamKOTOCA  
 
-**Evex Developers**  
-公式サイト: https://evex.land  
-GitHub: https://github.com/evex-dev  
-
 **さくら雑談王国 技術者チーム**  
 公式サイト: https://sakura.kotoca.net  
 GitHub: https://github.com/sakura-talk-kingdum  

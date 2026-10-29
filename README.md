@@ -18,11 +18,10 @@
 
 ## 基本情報
 
-- 名前：Povo43 / いんめ(Imme) / 後東間 架流  
-- 年齢：15
+- 名前：Povo43 / TOKURA
+- 年齢：16
 - 性別：男
 - 職業：高校生
-- 活動時間：JTC AM5～6 (UTC 20～22 h)
 
 ---
 
@@ -35,10 +34,6 @@
 ---
 
 ## 所属チーム
-
-**TeamKOTOCA**  
-公式サイト: https://kotoca.net  
-GitHub: https://github.com/TeamKOTOCA  
 
 **さくら雑談王国 技術者チーム**  
 公式サイト: https://sakura.kotoca.net  
